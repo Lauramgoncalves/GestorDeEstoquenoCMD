@@ -1,0 +1,8 @@
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\bin\Debug\GestorDeEstoquenoCMD.exe.config
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\bin\Debug\GestorDeEstoquenoCMD.exe
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\bin\Debug\GestorDeEstoquenoCMD.pdb
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\obj\Debug\GestorDeEstoquenoCMD.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\obj\Debug\GestorDeEstoquenoCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\obj\Debug\GestorDeEstoquenoCMD.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\obj\Debug\GestorDeEstoquenoCMD.exe
+C:\Users\laura\source\repos\GestorDeEstoquenoCMD\GestorDeEstoquenoCMD\obj\Debug\GestorDeEstoquenoCMD.pdb
